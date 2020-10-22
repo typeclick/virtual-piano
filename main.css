@@ -1,0 +1,24 @@
+body {
+    background-color: #20A8DA;
+}
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 0;
+);
+
+
+    
+}
+kbd {
+    display: inline-block;
+    background-color: white;
+    font-size: 16px;
+    padding: 25px;
+    height: 100px;
+    text-align: center;
+    border: 1px solid black;
+
+}
